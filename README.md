@@ -1,3 +1,7 @@
+## Authors
+
+### [Rudra Gohel] [Dev Kabra] [Kirtan Shah]
+
 # Statistical Analysis of Hindi and Sanskrit Languages
 
 ## Overview
@@ -28,6 +32,10 @@ The findings have practical applications in fields such as cryptanalysis, machin
 - **Comparisons with English:**
   - N-gram Entropy comparisons with English for insights into symbol relationships.
 
+## Repository Structure
+
+The repository contains two main folders - `hindi` and `sanskrit`. Each folder contains analysis.ipynb to generate the results. Results are in the form of CSV files and images.
+
 
 ## Usage
 
@@ -37,3 +45,11 @@ To reproduce the results of the research, follow these steps:
 
    ```bash
    git clone https://github.com/guptalab/hindisanskritstat.git
+
+2. Install the required packages:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. Run the 'analysis.ipynb' file in both folders to generate the results.
