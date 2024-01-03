@@ -1,2 +1,5 @@
 # ignore this folder
-__pycache__
+__pycache__/
+
+# ignore this file
+KrutiDev-010.TTF
